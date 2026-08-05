@@ -10,14 +10,6 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="70" height="70"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="70" height="70"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="70" height="70"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="70" height="70"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="70" height="70"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="70" height="70"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="70" height="70"/> </a></p>
 
-# GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=ymh3090&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ymh3090&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-
-
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ymh3090&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 **[My CV](https://drive.google.com/file/d/16OJ9H5XaQ83kJW6jqIfBcSdi_5CNSori/view?usp=drive_link)**
 
 
