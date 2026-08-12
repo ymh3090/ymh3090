@@ -24,6 +24,12 @@
 💡 I like explaining what I learn as much as I like learning it
 
 ---
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ymh3090&theme=react-dark&hide_border=true&area=true)
+---
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ymh3090&theme=radical&hide_border=true)](https://git.io/streak-stats)
+---
+[![trophy](https://github-profile-trophy.vercel.app/?username=ymh3090&theme=radical&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
 ### Tech Stack
 
