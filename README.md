@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://typingsvg.vercel.app/api/svg?height=100&backgroundOpacity=0&border=false&deletionBehavior=clear&lines=%5B%7B%22text%22%3A%22Yahya+MO-Hamed%22%2C%22font%22%3A%22jetbrains%22%2C%22color%22%3A%22%23e6bcdb%22%2C%22letterSpacing%22%3A%220.005em%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.05%2C%22fontWeight%22%3A%22500%22%7D%2C%7B%22text%22%3A%22Computer+Science+Student%22%2C%22color%22%3A%22%23d4bdd6%22%2C%22letterSpacing%22%3A%220.005em%22%2C%22typingSpeed%22%3A0.05%2C%22deleteSpeed%22%3A0.01%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?height=70&backgroundOpacity=0&border=false&deletionBehavior=clear&lines=%5B%7B%22text%22%3A%22Yahya+MO-Hamed%22%2C%22font%22%3A%22jetbrains%22%2C%22color%22%3A%22%23e6bcdb%22%2C%22letterSpacing%22%3A%220.005em%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.05%2C%22fontWeight%22%3A%22500%22%7D%2C%7B%22text%22%3A%22Computer+Science+Student%22%2C%22color%22%3A%22%23d4bdd6%22%2C%22letterSpacing%22%3A%220.005em%22%2C%22typingSpeed%22%3A0.05%2C%22deleteSpeed%22%3A0.01%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 
 **Focus** → ML Systems · Data · Desktop Apps
 
@@ -31,40 +31,31 @@
 ---
 
 ### 🛠 Tech Stack
-<div align="center">
-	<table>
-		<tr>
-      <td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arch_linux.png" alt="Arch Linux" title="Arch Linux"/></code></td>
-			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code></td>
-			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code></td>
-			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code></td>
-			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code></td>
-			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code></td>
-			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code></td>
-			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/></code></td>
-		</tr>
-		<tr>
-			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code></td>
-			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code></td>
-			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code></td>
-			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code></td>
-			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code></td>
-			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" alt="Flask" title="Flask"/></code></td>
-			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/></code></td>
-			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/></code></td>
-		</tr>
-		<tr>
-			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code></td>
-			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite"/></code></td>
-			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code></td>
-			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" alt="TensorFlow" title="TensorFlow"/></code></td>
-			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytorch.png" alt="PyTorch" title="PyTorch"/></code></td>
-			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/selenium.png" alt="Selenium" title="Selenium"/></code></td>
-			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code></td>
-			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/></code></td>
-		</tr>
-	</table>
-</div>
+
+**Languages**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js&theme=dark" />
+</p>
+
+**Web**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express&theme=dark" />
+</p>
+
+**Backend & Frameworks**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,dotnet&theme=dark" />
+</p>
+
+**Databases**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
+</p>
+
+**Tools & Platforms**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,ubuntu,azure,postman,selenium,tensorflow&theme=dark" />
+</p>
 
 ---
 
