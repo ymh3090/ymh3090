@@ -7,7 +7,6 @@
 [![Portfolio](https://img.shields.io/badge/myPortfolio-000000?style=for-the-badge&logo=github)](https://ymh3090.github.io/Yahya.dev1/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahya-mohamed-cs/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sxTDwyDD)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YahiaMo06251097)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahiamh3090@gmail.com)
 [![CV](https://img.shields.io/badge/My_CV-FF6B6B?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/16OJ9H5XaQ83kJW6jqIfBcSdi_5CNSori/view?usp=drive_link)
 
