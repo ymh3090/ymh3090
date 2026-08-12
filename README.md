@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://typingsvg.vercel.app/api/svg?height=100&backgroundOpacity=0&border=false&deletionBehavior=clear&lines=%5B%7B%22text%22%3A%22Yahya+MO-Hamed%22%2C%22font%22%3A%22jetbrains%22%2C%22color%22%3A%22%23e6bcdb%22%2C%22letterSpacing%22%3A%220.005em%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.05%2C%22fontWeight%22%3A%22500%22%7D%2C%7B%22text%22%3A%22Computer+Science+Student%22%2C%22color%22%3A%22%23d4bdd6%22%2C%22letterSpacing%22%3A%220.005em%22%2C%22typingSpeed%22%3A0.05%2C%22deleteSpeed%22%3A0.01%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 
-**Focus** → ML Systems · Data · Desktop Apps  
+**Focus** → ML Systems · Data · Desktop Apps
 
-[![Portfolio](https://img.shields.io/badge/myPortfolio-000000?style=for-the-badge&logo=github)](https://ymh3090.github.io/Yahya.dev1/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github)](https://ymh3090.github.io/Yahya.dev1/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahya-mohamed-cs/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sxTDwyDD)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahiamh3090@gmail.com)
@@ -19,65 +19,62 @@
 🔭 Currently studying **Computer Science** @ Assiut University (3rd year)  
 🌱 Learning **Data Structures, Algorithms & Applied ML**  
 👯 Looking to collaborate on **open-source** and real projects  
-🤝 Active in **THE HelpersAC** — building projects & organizing camps  
+🤝 Active in **Helpers Assiut Community** — building projects & organizing camps  
 💡 I like explaining what I learn as much as I like learning it
 
 ---
+
+### 📊 Activity
+
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ymh3090&theme=react-dark&hide_border=true&area=true)
----
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ymh3090&theme=radical&hide_border=true)](https://git.io/streak-stats)
----
-[![trophy](https://github-profile-trophy.vercel.app/?username=ymh3090&theme=radical&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
----
-
-### Tech Stack
-
-**Languages**  
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Web**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Backend & Runtime**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-**Tools & Technologies**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
 
 ---
 
-### Contribution Snake
-
+### 🛠 Tech Stack
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ymh3090/ymh3090/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake" />
+	<table>
+		<tr>
+      <td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arch_linux.png" alt="Arch Linux" title="Arch Linux"/></code></td>
+			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code></td>
+			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code></td>
+			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code></td>
+			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code></td>
+			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code></td>
+			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code></td>
+			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/></code></td>
+		</tr>
+		<tr>
+			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code></td>
+			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code></td>
+			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code></td>
+			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code></td>
+			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code></td>
+			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" alt="Flask" title="Flask"/></code></td>
+			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/></code></td>
+			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/></code></td>
+		</tr>
+		<tr>
+			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code></td>
+			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite"/></code></td>
+			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code></td>
+			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" alt="TensorFlow" title="TensorFlow"/></code></td>
+			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytorch.png" alt="PyTorch" title="PyTorch"/></code></td>
+			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/selenium.png" alt="Selenium" title="Selenium"/></code></td>
+			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code></td>
+			<td><code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/></code></td>
+		</tr>
+	</table>
 </div>
 
 ---
 
-### Contact
+### 📫 Contact
 
 Open to internships, junior roles, and collaborations in **AI/ML** or **Backend development**.
 
-- Portfolio: [ymh3090.github.io/Yahya.dev1](https://ymh3090.github.io/Yahya.dev1/)
-- LinkedIn: [yahya-mohamed-cs](https://www.linkedin.com/in/yahya-mohamed-cs/)
-- Email: [yahiamh3090@gmail.com](mailto:yahiamh3090@gmail.com)
+- Portfolio → [ymh3090.github.io/Yahya.dev1](https://ymh3090.github.io/Yahya.dev1/)
+- LinkedIn → [yahya-mohamed-cs](https://www.linkedin.com/in/yahya-mohamed-cs/)
+- Email → [yahiamh3090@gmail.com](mailto:yahiamh3090@gmail.com)
 
 ---
 
