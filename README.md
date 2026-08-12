@@ -1,32 +1,27 @@
 <div align="center">
 
-# Yahia Mohamed
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?height=100&backgroundOpacity=0&border=false&deletionBehavior=clear&lines=%5B%7B%22text%22%3A%22Yahya+MO-Hamed%22%2C%22font%22%3A%22jetbrains%22%2C%22color%22%3A%22%23e6bcdb%22%2C%22letterSpacing%22%3A%220.005em%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.05%2C%22fontWeight%22%3A%22500%22%7D%2C%7B%22text%22%3A%22Computer+Science+Student%22%2C%22color%22%3A%22%23d4bdd6%22%2C%22letterSpacing%22%3A%220.005em%22%2C%22typingSpeed%22%3A0.05%2C%22deleteSpeed%22%3A0.01%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 
-**Computer Science Student · Assiut University**
+**Focus** → ML Systems · Data · Desktop Apps  
 
-Building practical systems with a focus on **Machine Learning**, **Backend**, and **Desktop Applications**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github)](https://ymh3090.github.io/Yahya.dev1/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahya-mohamed-cs/)
+[![Portfolio](https://img.shields.io/badge/myPortfolio-000000?style=for-the-badge&logo=github)](https://ymh3090.github.io/Yahya.dev1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahya-mohamed-cs/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sxTDwyDD)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YahiaMo06251097)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahiamh3090@gmail.com)
-[![CV](https://img.shields.io/badge/Download_CV-FF6B6B?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/16OJ9H5XaQ83kJW6jqIfBcSdi_5CNSori/view?usp=drive_link)
+[![CV](https://img.shields.io/badge/My_CV-FF6B6B?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/16OJ9H5XaQ83kJW6jqIfBcSdi_5CNSori/view?usp=drive_link)
 
 </div>
 
 ---
 
-### About Me
+### 💫 About Me
 
-I'm a 3rd-year Computer Science student focused on turning real problems into working systems.  
-
-My main interests are:
-- Applied Machine Learning & Data Science
-- Backend development
-- Desktop applications
-
-I actively participate in the **Helpers Assiut Community**, where I build projects and help organize technical camps.
-
-Currently deepening my knowledge in **Data Structures, Algorithms**, and the full ML workflow (from data cleaning to model evaluation).
+🔭 Currently studying **Computer Science** @ Assiut University (3rd year)  
+🌱 Learning **Data Structures, Algorithms & Applied ML**  
+👯 Looking to collaborate on **open-source** and real projects  
+🤝 Active in **THE HelpersAC** — building projects & organizing camps  
+💡 I like explaining what I learn as much as I like learning it
 
 ---
 
@@ -60,40 +55,7 @@ Currently deepening my knowledge in **Data Structures, Algorithms**, and the ful
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-**Soft Skills**  
-Problem-solving · Communication · Teamwork · Attention to Detail
 
----
-
-### Featured Projects
-
-**Loan Approval Prediction System**  
-Machine learning classification model to predict loan approval with proper evaluation metrics.  
-`Python · Scikit-Learn · Jupyter`  
-→ [GitHub](https://github.com/ymh3090/Loan_Prediction)
-
-**URL Shortener**  
-Application for generating and managing short URLs with analytics.  
-`Express.js · SQLite · HTML`  
-→ [GitHub](https://github.com/ymh3090/url_shortner)
-
-**Password Strength Checker & Generator**  
-Java desktop application that generates secure passwords with configurable rules and validation.  
-`Java · JavaFX · JSON`  
-→ [GitHub](https://github.com/ymh3090/Password-Checker-and-Generator)
-
-**Invoice Generator**  
-Desktop application that creates professional PDF invoices with automatic calculations.  
-`C#`
-
----
-
-### GitHub Stats
-
-<div align="center">
-  <img src="https://stats.yurace.pro/api?username=ymh3090&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-  <img src="https://stats.yurace.pro/api/top-langs/?username=ymh3090&layout=compact&theme=radical&hide_border=true" height="165" />
-</div>
 ---
 
 ### Contribution Snake
