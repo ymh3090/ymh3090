@@ -24,12 +24,6 @@
 
 ---
 
-### 📊 Activity
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ymh3090&theme=react-dark&hide_border=true&area=true)
-
----
-
 ### 🛠 Tech Stack
 
 **Languages**  
@@ -59,7 +53,7 @@
 
 ---
 
-### 📫 Contact
+### Contact
 
 Open to internships, junior roles, and collaborations in **AI/ML** or **Backend development**.
 
