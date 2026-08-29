@@ -57,7 +57,7 @@
 
 Open to internships, junior roles, and collaborations in **AI/ML** or **Backend development**.
 
-- Portfolio → [ymh3090.github.io/Yahya.dev1](https://ymh3090.github.io/Yahya.dev1/)
+- Portfolio → [ymh3090.github.io/Yahya.dev1](https://yhya-h.github.io/Yahya.dev1/)
 - LinkedIn → [yahya-mohamed-cs](https://www.linkedin.com/in/yahya-mohamed-cs/)
 - Email → [yahiamh3090@gmail.com](mailto:yahiamh3090@gmail.com)
 
